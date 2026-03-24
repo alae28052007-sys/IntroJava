@@ -14,14 +14,9 @@ public class MonProjet {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-    int a= 3;
-    int b = 11;
-    int c=5;
-    if (a==b && b==c){
-        System.out.println("les 3 valeurs sont egales");
-        
-    }else{
-        System.out.println("les 3 valeures sont differentes");
+    for (int i=0;i<11;i++){
+        System.out.println(i);
     }
+        
 }
 }
