@@ -22,6 +22,10 @@ public class MonProjet {
         double lvirgule = 3.14159f;
         boolean yesorno = true;
         String tout = "oui";
+        int age = 2026 - 2002;
+        System.out.println(age);
+        String nomComplet ="Dupon" +" " + "Pierre";
+        System.out.println(nomComplet + " est nee en 2002 donc il a "+ age + " ans");
     }
     
 }
