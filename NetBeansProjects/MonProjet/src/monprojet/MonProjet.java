@@ -15,7 +15,13 @@ public class MonProjet {
      */
     public static void main(String[] args) {
         System.out.println("hello world");
-                
+        char lettre = '?';
+        int chiffre = '1';
+        long lchiffre =1000;
+        float virgule = 3.14f;
+        double lvirgule = 3.14159f;
+        boolean yesorno = true;
+        String tout = "oui";
     }
     
 }
