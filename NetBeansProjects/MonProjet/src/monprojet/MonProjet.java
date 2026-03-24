@@ -26,6 +26,12 @@ public class MonProjet {
         System.out.println(age);
         String nomComplet ="Dupon" +" " + "Pierre";
         System.out.println(nomComplet + " est nee en 2002 donc il a "+ age + " ans");
-    }
-    
+        char a ='1';
+        char b ='2';
+        if (a==b){
+            System.out.println(a+" = "+b);
+        }else{
+           System.out.println(a+" et "+ b +" sont different");
+        }
+}
 }
